@@ -1,1 +1,1 @@
-# Trilha_JavaScript
+# Trilha_Typescript
